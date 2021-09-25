@@ -1,2 +1,2 @@
-# #JAVA编程实战笔记
+# Initial page
 
