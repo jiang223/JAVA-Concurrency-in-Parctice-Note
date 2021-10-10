@@ -14,6 +14,7 @@
 
 * [5.1 同步容器类](di-5-zhang-jie-ji-chu-gou-jian-mo-kuai/5.1-tong-bu-rong-qi-lei.md)
 * [5.2并发容器](di-5-zhang-jie-ji-chu-gou-jian-mo-kuai/untitled.md)
+* [5.5同步工具类](di-5-zhang-jie-ji-chu-gou-jian-mo-kuai/5.5-tong-bu-gong-ju-lei.md)
 * [Page 1](di-5-zhang-jie-ji-chu-gou-jian-mo-kuai/page-1.md)
 
 ***
