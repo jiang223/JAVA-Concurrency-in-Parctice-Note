@@ -20,3 +20,4 @@
 
 * [6.1 在线程中执行任务](di-6-zhang-ren-wu-zhi-hang/6.1-zai-xian-cheng-zhong-zhi-hang-ren-wu.md)
 * [6.2Executor框架](di-6-zhang-ren-wu-zhi-hang/6.2executor-kuang-jia.md)
+* [6.3 找出可利用的并行性 未完成](di-6-zhang-ren-wu-zhi-hang/6.3-zhao-chu-ke-li-yong-de-bing-hang-xing-wei-wan-cheng.md)
