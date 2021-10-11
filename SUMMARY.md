@@ -19,4 +19,4 @@
 ## 第6章 任务执行
 
 * [6.1 在线程中执行任务](di-6-zhang-ren-wu-zhi-hang/6.1-zai-xian-cheng-zhong-zhi-hang-ren-wu.md)
-* [Executor框架](di-6-zhang-ren-wu-zhi-hang/executor-kuang-jia.md)
+* [6.2Executor框架](di-6-zhang-ren-wu-zhi-hang/6.2executor-kuang-jia.md)
